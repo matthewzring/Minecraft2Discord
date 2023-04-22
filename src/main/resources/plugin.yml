@@ -1,0 +1,4 @@
+name: Minecraft2Discord
+version: '${project.version}'
+main: dev.matthewzring.minecraft2discord.Minecraft2Discord
+api-version: 1.19

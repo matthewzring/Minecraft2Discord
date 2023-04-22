@@ -1,0 +1,4 @@
+url: ""
+joinMessage: "\uD83D\uDCE5 **%s** has joined."
+quitMessage: "\uD83D\uDCE4 **%s** has left."
+avatarApiUrl: "https://mc-heads.net/head/%s"
